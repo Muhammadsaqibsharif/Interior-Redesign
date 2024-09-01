@@ -1,0 +1,11 @@
+transformers
+gradio
+torch
+torchvision
+timm
+diffusers
+accelerate
+pillow
+scikit-image
+matplotlib
+python-dotenv
